@@ -1,5 +1,5 @@
 # 🧱 Foundations – Getting Started
-
+![Cloud MVP Diagram](./Cloud%20Getting%20Started.png)
 A customer with a hosted website approached me to migrate his receipt site to the cloud. As a Cloud Architect, my role was to listen, understand the business needs, and use my AWS toolbox to deliver a modern, secure, scalable solution.
 
 ## 1. What Is Cloud Computing?
@@ -43,7 +43,7 @@ The first point was to understand some basic concepts in cloud computing so I se
 - **Database**: MySQL on the same EC2 instance
 - **Site Users**: Connect directly to the server using external IP
 - **Developer**: Connect directly to the server using SSH and Symetrical key
-![Cloud MVP Diagram](./Cloud%20Getting%20Started.png)
+
 ## 5. Provision the EC2 Environment
 
 - Use default VPC and subnet for speed
