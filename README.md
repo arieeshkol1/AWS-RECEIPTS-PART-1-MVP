@@ -43,7 +43,7 @@ The first point was to understand some basic concepts in cloud computing so I se
 - **Database**: MySQL on the same EC2 instance
 - **Site Users**: Connect directly to the server using external IP
 - **Developer**: Connect directly to the server using SSH and Symetrical key
-
+![Cloud MVP Diagram](./Cloud%20Getting%20Started.png)
 ## 5. Provision the EC2 Environment
 
 - Use default VPC and subnet for speed
