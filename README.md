@@ -44,6 +44,9 @@ The first point was to understand some basic concepts in cloud computing so I se
 - **Site Users**: Connect directly to the server using external IP
 - **Developer**: Connect directly to the server using SSH and Symetrical key
 
+
+<img src="DiagramBasic.png" alt="Architecture Diagram" align="left" width="600">
+
 ## 5. Provision the EC2 Environment
 
 - Use default VPC and subnet for speed
